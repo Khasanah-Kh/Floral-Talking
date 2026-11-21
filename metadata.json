@@ -1,0 +1,6 @@
+{
+  "name": "FloraTalk",
+  "description": "AI gardening assistant for plant photo identification and care instructions with an interactive avatar language tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
